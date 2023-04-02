@@ -17,8 +17,6 @@ The Jupyter Notebook is the original web application for creating and sharing co
 * [Github](https://github.com/jupyter/notebook)
 * [Documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
 
-## Author's Notes
-
 ## License
 
 <Project Name> is licensed under [MIT](https://choosealicense.com/licenses/mit/)
